@@ -2,6 +2,8 @@
 
 Welcome to the Hacktoberfest Portfolio Showcase! 🚀
 
+First of all Go To [Hacktoberfest](https://hacktoberfest.com/) and register with your GitHub Account.
+
 This repository is a collaborative space for developers, designers, writers, and professionals of all backgrounds to showcase their portfolios and skills during **Hacktoberfest 2023**. Whether you're a beginner or an experienced coder, you're invited to contribute your portfolio to this collection.
 
 ## How to Contribute
